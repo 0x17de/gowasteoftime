@@ -46,8 +46,8 @@ func main() {
 | %H        | 2-digit hour                                                                 | 14                        |
 | %M        | 2-digit minute                                                               | 53                        |
 | %S        | 2-digit second                                                               | 59                        |
-| %p        | AM/PM modifier. Used together with %H                                        | 14 AM                     |
-| %F        | Optional fraction, 0-9 digits                                                | .123, ., .123456789                      |
+| %p        | AM/PM modifier. Used together with %H                                        | 3 PM                      |
+| %F        | Optional fraction, 0-9 digits                                                | .123, ., .123456789       |
 | %b        | Month as text                                                                | Jan, January              |
 | %a        | Weekday. Not used for parsing                                                | Mon, Monday               |
 | %z        | Timezone                                                                     | EST                       |
